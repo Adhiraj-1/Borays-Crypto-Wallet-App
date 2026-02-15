@@ -4,7 +4,6 @@ Crypto Wallet
 
 <div align="center">
 
-![Borays Logo](https://via.placeholder.com/200x200/00ff00/000000?text=BORAYS)
 
 **Enhanced Security with Split Key Cryptography**
 
